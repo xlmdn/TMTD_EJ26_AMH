@@ -1,1 +1,4 @@
-<Solution />
+<Solution>
+  <Project Path="CapaEntidad/CapaEntidad.csproj" Id="314318cc-0648-47b4-9d63-95b92c4e425a" />
+  <Project Path="Web_Api/Web_Api.csproj" Id="adb035aa-e2b3-4c4b-8861-c65ff4152249" />
+</Solution>
